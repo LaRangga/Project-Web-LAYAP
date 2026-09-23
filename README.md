@@ -4,7 +4,7 @@ Aplikasi berbasis web untuk memudahkan pelanggan melakukan reservasi meja dan ku
 
 ---
 
-## 👥 Anggota Kelompok
+##  Anggota Kelompok
 
 | Nama | NRP |
 | :--- | :--- |
@@ -16,5 +16,5 @@ Aplikasi berbasis web untuk memudahkan pelanggan melakukan reservasi meja dan ku
 
 ---
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 Sistem ini dirancang untuk mengelola pemesanan dan reservasi meja serta kursi restoran, meminimalkan antrean di lokasi, serta memberikan kepastian ketersediaan tempat bagi pelanggan sebelum kedatangan.
